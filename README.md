@@ -20,6 +20,8 @@ o	Visit 1 vs. Visit 3: *** Significant (p = 0.00059)
 o	Visit 2 vs. Visit 3: **** Highly significant (p = 0.00037)
 📊 Visualizations
 •	Boxplots of SBP per visit with significance annotations using stat_pvalue_manual()
+![Boxplot with p-values](friedman_sbp_annotated.png)
+
 📁 Deliverables
 •	Descriptive statistics table exported to CSV
 •	Formatted result tables for Wilcoxon statistics and p-values
